@@ -1,0 +1,86 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "PRX Token",
+      "symbol": "PRX",
+      "address": "0x71238884764fc000e35456e285d888080dbef2b0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://prxcoin.io/images/egg/9.png"
+    },
+    {
+      "name": "PRX Token",
+      "symbol": "PRX",
+      "address": "0x579a42aaf266a73dff0182ec3e76b7c28c15db83",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://prxcoin.io/images/egg/9.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDC.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xc06073Aa93C99163105Ba28cC8d7B3c5c0C522e5",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDT-icon.png"
+    },
+    {
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC",
+      "address": "0x7d077FdCDbE6CDFf146E69162c3CE9D71317578b",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDC.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0x9d324b9b0998be4f73bf89308059d56ddab96baf",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    }
+  ]
+}
